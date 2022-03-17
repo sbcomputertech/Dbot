@@ -1,4 +1,4 @@
-# Dbot
+# D-Bot
 
 Commands: <br>
 
