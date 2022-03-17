@@ -1,9 +1,6 @@
 # Dbot
 
-discord bot
-Useful
-
-Commands:
+Commands: <br>
 
 ?mute -username- <br>
 ?unmute -username- <br>
